@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AC_Ctrl</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="buttonOn">On</string>
+    <string name="buttonOff">Off</string>
+    <string name="buttonTest">Test other code for hope</string>
+<!--
+    <string name="btn_501">501</string>
+    <string name="btn_502">502</string>
+    <string name="btn_503">503</string>
+    <string name="btn_504">504</string>
+    <string name="btn_505">505</string>
+    <string name="btn_506">506</string>
+    <string name="btn_507">507</string>
+    <string name="btn_508">508</string>
+    <string name="btn_509">509</string>
+    <string name="btn_500">500</string>
+    <string name="btn_600">600</string>
+    <string name="btn_601">601</string>
+    <string name="btn_602">602</string>
+    <string name="btn_603">603</string>
+    <string name="btn_604">604</string>
+    <string name="btn_605">605</string>
+    <string name="btn_606">606</string>
+    <string name="btn_607">607</string>
+    <string name="btn_608">608</string>
+    <string name="btn_609">609</string>
+-->
+</resources>
